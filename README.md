@@ -10,3 +10,6 @@ This video show the making-off ot this source code:
 - How to create a django app
 - How to manage static files in django
 - Use a template recipe to build a single-page website
+
+Special thanks to: Startbootstrap for the FREE theme at
+https://startbootstrap.com/themes/creative/
